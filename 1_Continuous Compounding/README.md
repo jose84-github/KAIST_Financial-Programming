@@ -21,5 +21,3 @@
 	
 
 	• Bond Price under Continuous Compounding
-	
-![image](https://user-images.githubusercontent.com/74888819/110228111-e1a1a100-7f41-11eb-8182-cfbb155990ae.png)
