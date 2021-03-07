@@ -15,6 +15,7 @@
 	* ytm : Vector of Zero Rate
 
 • 두 함수를 작성하여 bond_price.R에 저장  
+* 기본적으로 Continuous Compounding 개념으로 Bond Price를 계산할 것
 
 1) Source('bond_price.R')로 함수를 콜  
 2) bond_price_ytm(100, 3, 0.04, 4, 0.01)로 함수 실행하여 108.8516이 결과로 나오도록  
