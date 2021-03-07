@@ -1,17 +1,17 @@
 ## Financial-Programming  
 1. Homework  
 • Bond Price YTM을 계산하는 함수  
-	○ F: Face Value of Bond  
-	○ T: Time to Maturity of Bond  
-	○ c : Coupon Rate  
-	○ f : Number of Coupon Payment  
-	○ ytm : Interest Rate  
+	* F: Face Value of Bond  
+	* T: Time to Maturity of Bond  
+	* c : Coupon Rate  
+	* f : Number of Coupon Payment  
+	* ytm : Interest Rate  
 • Bond Price Zero Rate를 계산하는 함수  
-	○ F: Face Value of Bond  
-	○ T: Time to Maturity of Bond  
-	○ c : Coupon Rate  
-	○ f : Number of Coupon Payment  
-	○ ytm : Vector of Zero Rate  
+	* F: Face Value of Bond  
+	* T: Time to Maturity of Bond  
+	* c : Coupon Rate  
+	* f : Number of Coupon Payment  
+	* ytm : Vector of Zero Rate  
 • 두 함수를 작성하여 bond_price.R에 저장  
 
 • Source('bond_price.R')로 함수를 콜  
