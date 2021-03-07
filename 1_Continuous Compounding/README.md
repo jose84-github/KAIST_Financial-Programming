@@ -14,7 +14,8 @@
 	* f : Number of Coupon Payment  
 	* ytm : Vector of Zero Rate
 
-• 두 함수를 작성하여 bond_price.R에 저장  
+* 두 함수를 작성하여 bond_price.R에 저장
+
 * 기본적으로 Continuous Compounding 개념으로 Bond Price를 계산할 것
 
 1) Source('bond_price.R')로 함수를 콜  
